@@ -1,0 +1,13 @@
+{
+  "name": "mocksvc",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "express": "^4.11.2",
+    "body-parser": "^1.14.2",
+    "json-fs-store": "^1.0.0"
+  }
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 1000,
+    "Name": "<s>clothing, shoes & accessories : women's clothing : sweaters</s>",
+    "DSSMScore": 0.8201731443405151
+  },
+  {
+    "Id": 2000,
+    "Name": "<s>clothing, shoes & accessories : men's clothing : sweaters</s>",
+    "DSSMScore": 0.7715380191802979
+  },
+  {
+    "Id": 3000,
+    "Name": "<s>clothing, shoes & accessories : vintage : women's vintage clothing sweaters</s>",
+    "DSSMScore": 0.7541475296020508
+  }
+]
